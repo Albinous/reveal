@@ -737,7 +737,7 @@ img {
 
 .team__content {
     width: 100%;
-    height: 100%;
+    height: auto;
     right: 0;
     text-align: center;
     padding: 15px;
